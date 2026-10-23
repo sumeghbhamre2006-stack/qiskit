@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/ui.tsx","./src/hooks/useapi.ts","./src/pages/analytics.tsx","./src/pages/circuitinspector.tsx","./src/pages/configuration.tsx","./src/pages/explorer.tsx","./src/pages/overview.tsx","./src/pages/reports.tsx","./src/services/api.ts","./src/types/index.ts","./vite.config.ts"],"version":"5.7.2"}
